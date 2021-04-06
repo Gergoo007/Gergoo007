@@ -1,8 +1,8 @@
-# Hi there 👋
+# Hello
 
-## I'm Gergoo007, and currently my favorite hobby is programming. I do things in Java, but i'm interested in web development too.
+## I do things in C or Java
+always trying out new things like my own init system, or custom Minecraft clients
 
-## A few things about me:
-### My favorite ...
-#### ... game is Minecraft, but i like Crysis, GTA, Portal, Tomb Raider too.
-#### ... language is Java.
+## Linux fan 
+My daily driver: Artix (OpenRC) <br>
+KDE/KWin or i3 *sometimes*
