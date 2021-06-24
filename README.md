@@ -1,8 +1,8 @@
 # Hello
 
 ## I do things in C or Java
-always trying out new things like my own init system, or custom Minecraft clients
+always trying out new things like my own init system, custom Minecraft client, or my own OS.
 
 ## Linux fan 
-My daily driver: Artix (OpenRC) <br>
-KDE/KWin or i3 *sometimes*
+My daily driver: Artix (runit) <br>
+i3-gaps w/ picom-jonaburg
